@@ -30,3 +30,5 @@ recognize as you.
 [Kartikey](https://github.com/KartikeySinghal/IntroToIM)
 [Matthew](https://github.com/mjvar/intro-to-interactive-media)
 [Joseph](https://github.com/jhongover9000/intro2im)
+[Omar](https://github.com/soablackwhite/Intro-to-IM)
+
